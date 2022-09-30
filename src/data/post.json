@@ -1,0 +1,32 @@
+[
+  {
+    "post_id": 1,
+    "post_date": "2022-10-11",
+    "post_title": "Post Title",
+    "post_Description": "Post Description"
+  },
+  {
+    "post_id": 2,
+    "post_date": "2022-10-12",
+    "post_title": "Post Title 2",
+    "post_Description": "Post Description 2"
+  },
+  {
+    "post_id": 3,
+    "post_date": "2022-10-20",
+    "post_title": "Post Title 3",
+    "post_Description": "Post Description 3"
+  },
+  {
+    "post_id": 4,
+    "post_date": "2022-10-21",
+    "post_title": "Post Title 4",
+    "post_Description": "Post Description 4"
+  },
+  {
+    "post_id": 5,
+    "post_date": "2022-10-24",
+    "post_title": "Post Title 5",
+    "post_Description": "Post Description 5"
+  }
+]
